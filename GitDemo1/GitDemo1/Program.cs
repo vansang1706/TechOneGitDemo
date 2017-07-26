@@ -12,6 +12,7 @@ namespace GitDemo1
         {
             Console.Write("Hello World");
             Console.Read();
+            // resolve conflic
         }
     }
 }
