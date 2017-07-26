@@ -11,6 +11,7 @@ namespace GitDemo1
         static void Main(string[] args)
         {
             Console.Write("Hello World");
+            Console.Write("From Dev 1");
             Console.Read();
             // sdfds resolve conflic
         }
