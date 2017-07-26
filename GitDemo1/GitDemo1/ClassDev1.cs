@@ -9,5 +9,10 @@ namespace GitDemo1
     class ClassDev1
     {
         public int Me { get; set; }
+
+        void ReadMe()
+        {
+
+        }
     }
 }
